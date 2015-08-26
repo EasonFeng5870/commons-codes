@@ -1,4 +1,4 @@
-package org.eason.leetcode;
+package org.eason.leetcode.pascalTriangle;
 
 import java.util.ArrayList;
 import java.util.List;
