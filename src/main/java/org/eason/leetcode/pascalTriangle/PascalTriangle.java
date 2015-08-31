@@ -24,6 +24,7 @@ public class PascalTriangle {
 	for (List<Integer> list : res) {
 	    logger.info(list);
 	}
+	
     }
     
     public List<List<Integer>> generate(int numRows) {
