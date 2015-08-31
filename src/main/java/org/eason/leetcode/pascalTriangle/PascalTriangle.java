@@ -6,7 +6,7 @@ import java.util.List;
 import org.apache.log4j.Logger;
 
 /**
- * Pascal's Triangle
+ * Pascal's Triangle 
  * 
  * the rule is the current element is a sum from the last row same position election and previous position.
  * 
